@@ -5,4 +5,5 @@ echo "Olá, mundo!\nEsta é uma linha de exemplo.\nTudo está funcionando perfei
 git add example.txt
 
 git commit -m "Primeiro commit"
+tomate
 
